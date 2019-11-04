@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">GoTodo!</string>
+    <string name="username">Gebruikersnaam</string>
+    <string name="password">Wachtwoord</string>
+    <string name="signin">Inloggen</string>
+    <string name="signup">Registreren</string>
+    <string name="login_wellcome">Log in met je inloggegevens</string>
+    <string name="signup_wellcome">Voer een gebruikersnaam en wachtwoord in om een account te maken</string>
+    <string name="successfull_register">Registratie voltooid</string>
+    <string name="title">Titel</string>
+    <string name="description">Omschrijving</string>
+    <string name="new_task">Nieuwe basistaak</string>
+    <string name="delete">verwijderen</string>
+    <string name="add_new_task">nieuwe taak</string>
+    <string name="my_todo_list">Mijn takenlijst</string>
+    <string name="logout">Uitloggen</string>
+    <string name="back">terug</string>
+    <string name="back_to_signup_message">Ga terug naar het inlogscherm en log in met je gebruikersnaam en wachtwoord
+    </string>
+    <string name="error_empty">Dit veld is vereist</string>
+    <string name="update_task">Taak bijwerken</string>
+    <string name="wellcome">Welkom</string>
+    <string name="no_task_title">Je hebt geen taken</string>
+    <string name="no_task_subtitle">Druk op de knop NIEUWE TAAK</string>
+</resources>
